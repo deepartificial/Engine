@@ -1,5 +1,5 @@
-iSoftware
-=========
+iSoftware Engine v0.1
+=====================
 
 Take artificial intelligence with you everywhere.
 
