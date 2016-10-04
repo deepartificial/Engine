@@ -1,0 +1,27 @@
+{
+    "name": "isoftware/engine",
+    "description": "Take artificial intelligence with you everywhere",
+    "homepage": "https://github.com/i-Software/Enigne",
+    "version":"v0.1",
+    "type": "library",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "iSoftware Organization",
+            "email": "iSoftware.NGO@gmail.com",
+            "homepage": "https://github.com/i-Software"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0",
+        "me578022/simplehtmldom": "v1.11",
+        "isoftware/http-client": "v0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "iSoftware\\": "src/",
+            "iSoftware\\Engine\\": "src/"
+        }
+    }
+}
