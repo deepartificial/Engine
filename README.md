@@ -1,4 +1,4 @@
-iSoftware Engine v0.1
+iSoftware Engine v0.1 [![Build Status](https://travis-ci.org/i-Software/Engine.svg?branch=master)](https://travis-ci.org/i-Software/Engine)
 =====================
 
 Take artificial intelligence with you everywhere.
